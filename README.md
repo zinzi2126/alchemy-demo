@@ -1,4 +1,13 @@
-hello world, time for git
+# hello world, time for git
 
-**hello**
+Let's say **hello**
+
+<li>dogs</li>
+<li>cats</li>
+
+_cats are the best_
+
+```html
+```css
+<p> color:blue; </p>
 
